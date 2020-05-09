@@ -3,7 +3,7 @@
 
     <div class="jumbotron">
         <h1>Henry Books</h1>
-        <p class="lead"> Edgar Bermudez - 5792558</p>
+        <p class="lead"> Edgar Bermudez</p>
     </div>
 
     <div class="row">
